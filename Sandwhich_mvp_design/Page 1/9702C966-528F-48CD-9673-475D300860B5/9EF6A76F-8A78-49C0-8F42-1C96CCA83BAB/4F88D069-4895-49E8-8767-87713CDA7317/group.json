@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "4F88D069-4895-49E8-8767-87713CDA7317",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 153,
+    "width": 541,
+    "x": 0,
+    "y": 247
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2F3A0AF9-AE63-4701-8D82-4F232D5C6983"
+    },
+    {
+      "class": "group",
+      "id": "24D0F9F9-32E8-4389-B42E-88F28006C294"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "24EB939B-B6B1-4066-9D42-84FB91CC0052"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D8DABC19-6FF3-4841-814D-2111269A954A"
+    }
+  ],
+  "name": "Form groups",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
