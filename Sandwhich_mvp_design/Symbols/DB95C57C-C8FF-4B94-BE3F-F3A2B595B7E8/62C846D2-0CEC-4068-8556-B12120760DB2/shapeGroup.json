@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "D0CF9996-CBE1-4F11-B333-E015F3B56E7D",
+  "do_objectID": "62C846D2-0CEC-4068-8556-B12120760DB2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 71.09962118314957,
-    "width": 121.4381031715041,
-    "x": 3.382375479687596,
-    "y": 0.05067232107558084
+    "height": 16,
+    "width": 18,
+    "x": 208,
+    "y": 25
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -28,11 +28,23 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "oval",
+      "id": "51402977-DB4B-4511-B1A3-F592B235E88A"
+    },
+    {
       "class": "shapePath",
-      "id": "8466241A-396A-45D9-9A4C-EC4C082E5AAA"
+      "id": "0AD6D464-1DF9-4DEA-9B8A-DF0C460B5DFE"
+    },
+    {
+      "class": "oval",
+      "id": "0BF64103-A797-4E2F-AE65-C92546011EAC"
+    },
+    {
+      "class": "shapePath",
+      "id": "F0A98127-C82B-418F-B9B1-EEFB568026DB"
     }
   ],
-  "name": "Fill 9",
+  "name": "Combined Shape Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,6 +52,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8,
+          "green": 0.8,
+          "red": 0.8
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
     "endDecorationType": 0,
     "fills": [
       {
@@ -47,9 +75,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8352941176470589,
-          "green": 0.7294117647058823,
-          "red": 0.3215686274509803
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,

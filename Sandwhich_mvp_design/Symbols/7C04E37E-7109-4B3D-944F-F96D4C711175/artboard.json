@@ -1,6 +1,13 @@
 {
-  "_class": "page",
-  "do_objectID": "0F9DDFBA-86D2-493F-AC46-2303758ECBEE",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "7C04E37E-7109-4B3D-944F-F96D4C711175",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,18 +20,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
+    "height": 18,
+    "width": 18,
+    "x": 399,
     "y": 0
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -33,36 +42,17 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolMaster",
-      "id": "ADA00442-6E8C-42DB-B4C8-83DFD2B2713A"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "F0FAE9F1-5683-44B8-ABB7-F048D70A6364"
-    },
-    {
-      "class": "artboard",
-      "id": "B1B87665-1912-4C11-A299-6513AEBE2695"
-    },
-    {
-      "class": "artboard",
-      "id": "DB95C57C-C8FF-4B94-BE3F-F3A2B595B7E8"
-    },
-    {
-      "class": "artboard",
-      "id": "7C04E37E-7109-4B3D-944F-F96D4C711175"
-    },
-    {
-      "class": "artboard",
-      "id": "B39091F5-4FCC-4E63-BF61-72FA819B89F0"
+      "class": "shapeGroup",
+      "id": "5D977E99-55BE-46B6-A382-2E9142E8E28C"
     }
   ],
-  "name": "Symbols",
-  "nameIsFixed": false,
+  "name": "User",
+  "nameIsFixed": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

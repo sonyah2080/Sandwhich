@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "D0CF9996-CBE1-4F11-B333-E015F3B56E7D",
+  "do_objectID": "02B00307-A953-452F-B5E1-D9C15522C8E2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,11 +13,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 71.09962118314957,
-    "width": 121.4381031715041,
-    "x": 3.382375479687596,
-    "y": 0.05067232107558084
+    "constrainProportions": true,
+    "height": 12.46192731975546,
+    "width": 14,
+    "x": 2,
+    "y": 3
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -28,11 +28,23 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "oval",
+      "id": "217E4C40-D7A9-497F-AC84-1E4736D4A886"
+    },
+    {
       "class": "shapePath",
-      "id": "8466241A-396A-45D9-9A4C-EC4C082E5AAA"
+      "id": "E305CD9C-0D88-4C84-87F6-1E636C89B656"
+    },
+    {
+      "class": "oval",
+      "id": "7CF8D5F6-FED8-4773-A690-D55A06D38E40"
+    },
+    {
+      "class": "shapePath",
+      "id": "3270DAE9-27AA-4062-A330-77B8D7374DD1"
     }
   ],
-  "name": "Fill 9",
+  "name": "Combined Shape",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,6 +52,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
     "endDecorationType": 0,
     "fills": [
       {
@@ -47,9 +75,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8352941176470589,
-          "green": 0.7294117647058823,
-          "red": 0.3215686274509803
+          "blue": 0.3098039215686274,
+          "green": 0.3254901960784314,
+          "red": 0.8509803921568627
         },
         "fillType": 0,
         "isEnabled": true,

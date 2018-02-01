@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "D0CF9996-CBE1-4F11-B333-E015F3B56E7D",
+  "do_objectID": "99AEE4B2-E414-49B9-9149-72B352E8DE40",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,11 +13,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 71.09962118314957,
-    "width": 121.4381031715041,
-    "x": 3.382375479687596,
-    "y": 0.05067232107558084
+    "constrainProportions": true,
+    "height": 100,
+    "width": 100,
+    "x": 75,
+    "y": 30
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,14 +25,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "8466241A-396A-45D9-9A4C-EC4C082E5AAA"
+      "class": "oval",
+      "id": "7EB61453-23C7-4DFC-AFE0-6B0BAC16FA47"
     }
   ],
-  "name": "Fill 9",
+  "name": "Oval",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,6 +40,22 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8352941176470589,
+          "green": 0.7294117647058824,
+          "red": 0.3215686274509805
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
     "endDecorationType": 0,
     "fills": [
       {
@@ -47,9 +63,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8352941176470589,
-          "green": 0.7294117647058823,
-          "red": 0.3215686274509803
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,
