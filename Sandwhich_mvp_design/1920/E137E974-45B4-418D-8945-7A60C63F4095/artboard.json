@@ -26,7 +26,7 @@
     "y": -2350
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -54,16 +54,56 @@
       "id": "B0A63B94-5881-455D-93FC-EE06C09D1129"
     },
     {
+      "class": "shapeGroup",
+      "id": "2534F774-5D9F-40BF-9495-E47AF3A353C6"
+    },
+    {
+      "class": "text",
+      "id": "C36668FE-656E-42D5-BFBE-465BE5FCBB5B"
+    },
+    {
       "class": "group",
-      "id": "53F9F212-4A60-48FB-8717-8C17C6F8A43A"
+      "id": "9301F874-3CA7-4E54-AD8B-3ED32FC336C6"
+    },
+    {
+      "class": "group",
+      "id": "E603AF2B-EE10-42B3-8573-EF65076D32D7"
+    },
+    {
+      "class": "group",
+      "id": "9301C753-7EAE-4567-AA9E-C968A0C3F6F5"
+    },
+    {
+      "class": "group",
+      "id": "44F9708A-763B-4CE3-B9F1-AF2D2439521C"
+    },
+    {
+      "class": "group",
+      "id": "7B29E41C-0D17-4FEC-9615-BEAB1D6E3EEF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DBD2D577-99EF-43AB-99E1-1DCDC2A90F28"
+    },
+    {
+      "class": "group",
+      "id": "6E28CCBB-F299-4CCF-92AC-0F5684728E28"
+    },
+    {
+      "class": "group",
+      "id": "B4A3D8E4-7610-48B8-87D3-912CD1284BA4"
+    },
+    {
+      "class": "group",
+      "id": "A011EF49-A322-4787-A470-75E9BD703A0A"
+    },
+    {
+      "class": "group",
+      "id": "CB60EE71-4DDE-433E-BBF9-BD382CEF3E4F"
     },
     {
       "class": "symbolInstance",
       "id": "65FE9C03-4AAD-427C-9856-01FF664BE057"
-    },
-    {
-      "class": "group",
-      "id": "E04CC695-C833-4AFA-9F5B-14221214FDB9"
     }
   ],
   "name": "Desktop_Sign_up",
