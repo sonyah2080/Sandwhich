@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "A011EF49-A322-4787-A470-75E9BD703A0A",
+  "do_objectID": "6E28CCBB-F299-4CCF-92AC-0F5684728E28",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 25,
-    "width": 490,
-    "x": 1016,
-    "y": 806
+    "width": 121,
+    "x": 25,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -26,16 +26,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "71D44C84-84F7-41FD-88BE-54636C4E593A"
+      "class": "shapeGroup",
+      "id": "D1779580-17A7-4591-9E68-EA7B65D04A35"
     },
     {
       "class": "text",
-      "id": "CB5FEFF1-58B1-4F5C-B5A7-FD00971FD27D"
+      "id": "7BD77586-9FAF-4F6D-9F18-FB0503077D5E"
     }
   ],
-  "name": "Group 5",
-  "nameIsFixed": false,
+  "name": "checkbox copy",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
