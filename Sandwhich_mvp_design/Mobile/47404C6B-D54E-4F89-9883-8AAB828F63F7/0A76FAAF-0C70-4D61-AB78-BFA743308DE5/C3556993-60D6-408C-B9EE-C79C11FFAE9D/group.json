@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 286,
+    "width": 100,
     "x": 15,
     "y": 79
   },
@@ -23,15 +23,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "816FA5CA-CEB3-43C7-BC80-0F5B957B536B"
-    },
-    {
-      "class": "text",
-      "id": "B39BFB95-D252-42E7-B17B-6D0969EF460D"
     }
   ],
   "name": "Group 9 Copy",

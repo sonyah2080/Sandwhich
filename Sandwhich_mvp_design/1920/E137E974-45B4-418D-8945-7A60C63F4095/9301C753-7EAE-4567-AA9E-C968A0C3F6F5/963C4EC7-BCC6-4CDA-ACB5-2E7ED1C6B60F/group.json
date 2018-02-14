@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "9339B2E7-8858-4BA4-BC2D-8BF42A92C657",
+  "do_objectID": "963C4EC7-BCC6-4CDA-ACB5-2E7ED1C6B60F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,29 +13,29 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 65,
-    "width": 98,
+    "height": 29,
+    "width": 245,
     "x": 0,
-    "y": 0
+    "y": 41
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "65B3C413-87E6-4CD5-947D-EC53558E8397"
+      "class": "group",
+      "id": "9DE43B42-0A79-4423-A9C1-C2CB449BBDCC"
     },
     {
-      "class": "group",
-      "id": "07FB5F74-BADD-42DB-9443-335F6AE09E57"
+      "class": "shapeGroup",
+      "id": "F4D2D1A3-6BCF-46C3-8057-E80E497488B4"
     }
   ],
-  "name": "form-group:focus",
-  "nameIsFixed": true,
+  "name": "Group 9",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

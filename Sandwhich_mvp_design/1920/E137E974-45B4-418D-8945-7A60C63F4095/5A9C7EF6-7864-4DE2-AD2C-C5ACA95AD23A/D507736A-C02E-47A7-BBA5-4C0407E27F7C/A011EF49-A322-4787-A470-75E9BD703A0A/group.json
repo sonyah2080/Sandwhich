@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 25,
-    "width": 490,
+    "height": 24,
+    "width": 126,
     "x": 25,
     "y": 140
   },
@@ -23,15 +23,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "71D44C84-84F7-41FD-88BE-54636C4E593A"
-    },
-    {
-      "class": "text",
-      "id": "CB5FEFF1-58B1-4F5C-B5A7-FD00971FD27D"
     }
   ],
   "name": "Group 5",

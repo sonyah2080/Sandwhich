@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "9DE43B42-0A79-4423-A9C1-C2CB449BBDCC",
+  "do_objectID": "7CB9BA78-9CBE-4370-9AB1-EF725273EDE5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 25,
-    "width": 106,
-    "x": 305,
-    "y": 42
+    "height": 24,
+    "width": 114,
+    "x": 10,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,10 +27,10 @@
   "layers": [
     {
       "class": "text",
-      "id": "D76998A9-BA8F-442B-8ED2-2525C060F5CC"
+      "id": "F8943D13-D6AC-4CA4-9536-E3A522DBC692"
     }
   ],
-  "name": "form-control copy",
+  "name": "form-control",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
