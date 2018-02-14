@@ -44,6 +44,10 @@
     {
       "class": "group",
       "id": "24ABCD25-DACF-4AA6-ADB3-B12FDFBE969E"
+    },
+    {
+      "class": "group",
+      "id": "4090D5A2-2AF0-48FE-9083-56173C691F63"
     }
   ],
   "name": "Desktop_비밀번호불일치",

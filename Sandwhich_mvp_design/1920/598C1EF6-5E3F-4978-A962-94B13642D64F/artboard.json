@@ -39,11 +39,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "7270A430-0442-42F6-AE22-DD0AAE3F7CDA"
+    },
+    {
+      "class": "text",
+      "id": "6EEB56C2-9934-40A3-8873-33428438D618"
+    },
+    {
+      "class": "group",
+      "id": "AF18A47B-0D26-451D-B087-96F90FDDD25C"
     }
   ],
   "name": "Desktop_이메일유효성검사",

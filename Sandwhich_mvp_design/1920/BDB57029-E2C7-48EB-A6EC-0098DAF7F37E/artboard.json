@@ -44,6 +44,14 @@
     {
       "class": "group",
       "id": "FF470C3B-4BF4-46E7-A1BF-9269EFC13CCA"
+    },
+    {
+      "class": "text",
+      "id": "8F6EEBD8-1604-49FD-9C67-BDCDEB10AE85"
+    },
+    {
+      "class": "group",
+      "id": "6E9B4744-EE77-4E60-9CEB-DD6C7E809A91"
     }
   ],
   "name": "Desktop_이메일비유효한상태",

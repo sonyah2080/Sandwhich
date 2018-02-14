@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 25,
-    "width": 259,
+    "height": 24,
+    "width": 250,
     "x": 0,
     "y": 0
   },
@@ -26,12 +26,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "DA48BD9A-00E7-4466-BE93-06D0C99ECC87"
-    },
-    {
-      "class": "text",
-      "id": "39A6FE13-E01E-4043-942F-78B85C9D928E"
+      "class": "group",
+      "id": "7018B6DE-E76B-4147-B135-C8A5BAD7F81A"
     }
   ],
   "name": "Group",
