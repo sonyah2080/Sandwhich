@@ -35,6 +35,26 @@
     {
       "class": "artboard",
       "id": "47404C6B-D54E-4F89-9883-8AAB828F63F7"
+    },
+    {
+      "class": "artboard",
+      "id": "5E100019-ECC7-4321-9330-D7A088D30F99"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ED28F0CB-B75E-4073-ACF4-138AE068CE39"
+    },
+    {
+      "class": "group",
+      "id": "433ED5FD-3ED7-41B0-813E-BE8DAC20BCB8"
+    },
+    {
+      "class": "text",
+      "id": "99BBDD19-8F64-48C4-8C86-31E257EEBA17"
+    },
+    {
+      "class": "group",
+      "id": "EF253015-58D6-40B6-9061-2900069DFFC8"
     }
   ],
   "name": "Mobile",

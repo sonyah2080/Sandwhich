@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.9607843137254902,
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
   },
   "do_objectID": "22FDE4C2-CD8D-4B22-B486-B11A7CCFE6F6",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "x": 7349,
     "y": -391
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -42,12 +42,20 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "2ADD9AF4-001E-44F4-8D24-DD5B427085B2"
+    },
+    {
       "class": "group",
       "id": "0ABE1E4D-71CA-4A95-82AB-FC593B51EC53"
     },
     {
       "class": "group",
       "id": "0B222529-6A44-4BBA-9EEC-0BC80F4C42B7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FE874165-B3C2-4286-A086-1F0E457EFB9D"
     }
   ],
   "name": "Desktop_비밀번호5회불일치리캡챠",
@@ -60,6 +68,24 @@
   "style": {
     "_class": "style",
     "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startDecorationType": 0
   },
